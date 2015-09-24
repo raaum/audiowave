@@ -1,2 +1,2 @@
 # audiowave
-Sine and Frequency Bar Waveforms from Microphone Input
+sinewave and frequency bar waveform visualizations using web audio microphone input
